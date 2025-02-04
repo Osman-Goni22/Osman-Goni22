@@ -26,5 +26,6 @@ Skills:  Next js/REACT / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Osman-Goni22/contributions?format=svg&private=false)  
 
-    <img src="https://streak-stats.demolab.com/?user=Osman-Goni22" alt="GitHub Streak Stats"> 
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Osman-Goni22)
+
 
