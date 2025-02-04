@@ -25,7 +25,7 @@ Skills:  Next js/REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Osman-Goni22&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Osman-Goni22/contributions?format=svg&private=false)  
+
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Osman-Goni22)
 
