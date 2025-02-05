@@ -12,8 +12,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 💬 Ask me about web development 
 - 📫 How to reach me: Linkedin 
 - 😄 Pronouns: he/him 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osman-Goni22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Goni22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
