@@ -6,7 +6,7 @@
 # Frontend web developer
 
 
-I am Frontend web developer passionate in building beauriful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
+I am Frontend web developer passionate in building beautiful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
 
 
 - 🔭 I’m currently working on Ai based job recommendation system 
