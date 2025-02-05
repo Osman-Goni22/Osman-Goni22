@@ -1,6 +1,8 @@
-<div align="center" style="background-color: yellow;">
-  <img height="200" src="https://i.ibb.co.com/YXCJBb7/osmans.jpg" />
+<div align="left">
+  <img height="200" src="https://i.ibb.co.com/YXCJBb7/osmans.jpg"  />
 </div>
+
+###
 
 
 
