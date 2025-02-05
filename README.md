@@ -1,4 +1,6 @@
-![I am Frontend Web developer.](https://i.ibb.co.com/YXCJBb7/osmans.jpg)
+<div align='center'>
+  <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg"/>
+</div>
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
 
 
