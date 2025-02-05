@@ -16,7 +16,8 @@ I am Frontend web developer passionate in building beauriful and responsive UI.I
 
 ###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Osman-Goni22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/osman-goni-13993a32b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100035484800785)  
+# Find me on
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Osman-Goni22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/osman-goni-13993a32b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100035484800785)
 # I code With:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -51,11 +52,6 @@ I am Frontend web developer passionate in building beauriful and responsive UI.I
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Osman-Goni22)
 
 
-  ### 📞 Contact Me  
-📧 Email: your.email@example.com  
-📱 Phone: +123 456 7890  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 
 
