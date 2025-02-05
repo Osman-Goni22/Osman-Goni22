@@ -1,6 +1,7 @@
-<div align='center'>
+<div >
   <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg"/>
 </div>
+
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
 
 
