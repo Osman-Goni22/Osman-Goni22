@@ -1,5 +1,5 @@
 <div style=" width:100%; border:2px solid red; background-color:dark-green" >
-  <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg" style="width: 100%;  />
+  <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg"   />
 </div>
 
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
