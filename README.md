@@ -1,6 +1,8 @@
-<div style=" width:100%; border:2px solid red; background-color:dark-green" >
-  <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg"   />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+
 
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
 # Frontend web developer
