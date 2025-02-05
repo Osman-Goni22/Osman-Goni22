@@ -1,4 +1,4 @@
-<div style=" width:100%; border:2px solid red" >
+<div style=" width:100%; border:2px solid red; background-color:dark-green" >
   <img src ="https://i.ibb.co.com/YXCJBb7/osmans.jpg" style="width: 100%;  />
 </div>
 
