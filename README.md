@@ -3,6 +3,7 @@
 </div>
 
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
+# Frontend web developer
 
 
 I am Frontend web developer passionate in building beauriful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
