@@ -5,7 +5,6 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  Next js/REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Ai based job recommendation system 
 - 🌱 I’m currently learning Next js 
@@ -19,7 +18,7 @@ Skills:  Next js/REACT / JS / HTML / CSS
 </div>
 
 ###
-
+# I code With:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
