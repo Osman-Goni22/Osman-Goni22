@@ -13,8 +13,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 📫 How to reach me: Linkedin 
 - 😄 Pronouns: he/him 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Goni22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 # I code With:
@@ -38,7 +37,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Osman-Goni22)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-Goni22)](https://github.com/anuraghazra/github-readme-stats)
 
