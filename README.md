@@ -7,19 +7,35 @@
 
 
 
-### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
-# Frontend web developer
+  <h3>Hi there 👋, My name is Md. Ataur Rahman Osman Goni</h3>
 
 
-I am Frontend web developer passionate in building beautiful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
+
+  <h1>Frontend web developer</h1>
 
 
-- 🔭 I’m currently working on Ai based job recommendation system 
-- 🌱 I’m currently learning Next js 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about web development 
-- 📫 How to reach me: Linkedin 
-- 😄 Pronouns: he/him 
+
+
+  I am Frontend web developer passionate in building beautiful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
+
+
+
+
+### 🔥 About Me
+
+- 🔭 I’m currently working on an **AI-based job recommendation system**  
+- 🌱 I’m currently learning **Next.js**  
+- 👯 I’m looking to collaborate on **GitHub**  
+- 💬 Ask me about **Web Development**  
+- 📫 How to reach me: **[LinkedIn](#)**  
+- 😄 Pronouns: **he/him**  
+
+</div>
+
+
+
+
+
 
 
 
