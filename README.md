@@ -1,9 +1,8 @@
 ![I am Frontend Web developer.](https://i.ibb.co.com/YXCJBb7/osmans.jpg)
 ### Hi there 👋, My name is Md. Ataur Rahman Osman Goni
-#### I am Frontend Web developer.
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Frontend web developer passionate in building beauriful and responsive UI.I specialize in HTML, CSS, JS and modern framework like React. I Love turning ideas into reality with plain code, always striving to improve performance and accessibility.
 
 
 - 🔭 I’m currently working on Ai based job recommendation system 
