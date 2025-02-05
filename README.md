@@ -51,3 +51,11 @@ I am Frontend web developer passionate in building beauriful and responsive UI.I
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Osman-Goni22)
 
 
+  ### 📞 Contact Me  
+📧 Email: your.email@example.com  
+📱 Phone: +123 456 7890  
+🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
+
+
